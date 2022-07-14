@@ -14,6 +14,7 @@
 		BD9D0FC028808509007178B3 /* KWK_Day_4.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD9D0FBE28808509007178B3 /* KWK_Day_4.xcdatamodeld */; };
 		BD9D0FC22880850C007178B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD9D0FC12880850C007178B3 /* Assets.xcassets */; };
 		BD9D0FC52880850C007178B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD9D0FC32880850C007178B3 /* LaunchScreen.storyboard */; };
+		BD9D0FCD288085F5007178B3 /* secondScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9D0FCC288085F5007178B3 /* secondScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BD9D0FC12880850C007178B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD9D0FC42880850C007178B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD9D0FC62880850C007178B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD9D0FCC288085F5007178B3 /* secondScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,9 +63,10 @@
 				BD9D0FB528808509007178B3 /* AppDelegate.swift */,
 				BD9D0FB728808509007178B3 /* SceneDelegate.swift */,
 				BD9D0FB928808509007178B3 /* ViewController.swift */,
+				BD9D0FCC288085F5007178B3 /* secondScreenViewController.swift */,
+				BD9D0FC32880850C007178B3 /* LaunchScreen.storyboard */,
 				BD9D0FBB28808509007178B3 /* Main.storyboard */,
 				BD9D0FC12880850C007178B3 /* Assets.xcassets */,
-				BD9D0FC32880850C007178B3 /* LaunchScreen.storyboard */,
 				BD9D0FC62880850C007178B3 /* Info.plist */,
 				BD9D0FBE28808509007178B3 /* KWK_Day_4.xcdatamodeld */,
 			);
@@ -144,6 +147,7 @@
 				BD9D0FBA28808509007178B3 /* ViewController.swift in Sources */,
 				BD9D0FB628808509007178B3 /* AppDelegate.swift in Sources */,
 				BD9D0FB828808509007178B3 /* SceneDelegate.swift in Sources */,
+				BD9D0FCD288085F5007178B3 /* secondScreenViewController.swift in Sources */,
 				BD9D0FC028808509007178B3 /* KWK_Day_4.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
